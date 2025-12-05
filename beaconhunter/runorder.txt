@@ -1,3 +1,0 @@
-python -m src.train_detector
-python -m src.evaluate_detector
-python -m src.score_events --input data/beacon_events_eval_unlabeled.csv --output results/eval_scored.csv
